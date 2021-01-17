@@ -1,0 +1,7 @@
+.fontStyle {
+  font-size: 50px !important;
+  font-style: italic;
+  font-stretch: initial;
+  font-display: flex;
+  color: rgb(25, 55, 63);
+}
